@@ -17,4 +17,10 @@ class Shoe
 end
 end
 
+# class Array
+#   def included_in? array
+#     array.to_set.superset?(self.to_set)
+#   end
+# end
 
+# [1,2,4].included_in?([1,10,2,34,4])
