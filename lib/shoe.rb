@@ -19,7 +19,7 @@ class Shoe
     puts "Your shoe is as good as new!"
 end
 end
-
+end
 # class Array
 #   def included_in? array
 #     array.to_set.superset?(self.to_set)
